@@ -11,3 +11,6 @@ An interactive dashboard designed to analyze customer sales performance across c
 - Correlation between discount and quantity ordered
 
 [🔗 View Dashboard on Tableau Public](https://public.tableau.com/app/profile/shruti.wakchoure/viz/SalesDashboard_17452299757050/Dashboard1)
+
+![image](https://github.com/user-attachments/assets/5541ccb3-d69c-4f4a-a424-7305e9b42fae)
+
